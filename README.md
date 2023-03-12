@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Agarwalla</h1>
 <h3 align="center">A technophile from India passionate about AI & ML</h3>
 
-<img align="right" alt="CODING" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gavizoid16%2Fthings-to-do-after-a-coding-bootcamp-9523cd61be91&psig=AOvVaw2FB4cYd2eBZyY6hztc6qbD&ust=1678717334561000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCID6os7L1v0CFQAAAAAdAAAAABAE">
+<img align="right" alt="CODING" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-agarwalla&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-agarwalla" /> </p>
 
