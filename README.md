@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Agarwalla</h1>
-<h3 align="center">A technophile from India passionate about AI & ML</h3>
+<h3 align="center">A Technophile from India passionate about AI & ML</h3>
 
 <img align="right" alt="CODING" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
